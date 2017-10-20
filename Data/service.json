@@ -1,0 +1,184 @@
+{
+  "s_img":["img/1.jpg","img/2.jpg","img/3.jpg","img/4.jpg","img/5.jpg","img/6.jpg"],
+  "sort":[
+    {
+      "icon":"iconfont icon-tianmao2",
+      "sort":"车商城",
+      "bg":"#FF6666"
+    },
+    {
+      "icon":"iconfont icon-31",
+      "sort":"分期购车",
+      "bg":"#FF9D3E"
+    },
+    {
+      "icon":"iconfont icon-dribbble",
+      "sort":"团购活动",
+      "bg":"#FF6666"
+    },
+    {
+      "icon":"iconfont icon-tengxunweibo2",
+      "sort":"找二手车",
+      "bg":"#4183FF"
+    }
+  ],
+  "server":[
+    {
+      "icon":"iconfont icon-bianji",
+      "type":"油卡充值",
+      "color":"#FB9D9D"
+    },
+    {
+      "icon":"iconfont icon-shezhi",
+      "type":"低价保险",
+      "color":"#4ABC95"
+    },
+    {
+      "icon":"iconfont icon-tengxunweibo1",
+      "type":"品质轮胎",
+      "color":"#1EAC7B"
+    },
+    {
+      "icon":"iconfont icon-jianpan",
+      "type":"车品商城",
+      "color":"#FF7537"
+    },
+    {
+      "icon":"iconfont icon-qianbao",
+      "type":"车品商城",
+      "color":"#FB9D9D"
+    },
+    {
+      "icon":"iconfont icon-baidu",
+      "type":"洗车",
+      "color":"#6A9EFF"
+    },
+    {
+      "icon":"iconfont icon-shouji",
+      "type":"违章代缴",
+      "color":"#FF9262"
+    },
+    {
+      "icon":"iconfont icon-youxiang1",
+      "type":"免费测评",
+      "color":"#FF9262"
+    },
+    {
+      "icon":"iconfont icon-didian",
+      "type":"查周边",
+      "color":"#6198FF"
+    },
+    {
+      "icon":"iconfont icon-qiaquan",
+      "type":"车主卡",
+      "color":"#43BA91"
+    },
+    {
+      "icon":"iconfont icon-xuewei",
+      "type":"领券保养",
+      "color":"#679CFF"
+    },
+    {
+      "icon":"iconfont icon-pingguo",
+      "type":"全部",
+      "color":"#7B7B7B"
+    }
+  ],
+  "sale":[
+    {
+      "img":"./img/img1.gif",
+      "use":"补胎工具套装"
+    },
+    {
+      "img":"./img/img2.gif",
+      "use":"车用椅背挂钩"
+    },
+    {
+      "img":"./img/img1.gif",
+      "use":"祛痘增亮"
+    },
+    {
+      "img":"./img/img2.gif",
+      "use":"车用椅背挂钩"
+    },
+    {
+      "img":"./img/img1.gif",
+      "use":"祛痘增亮"
+    },
+    {
+      "img":"./img/img2.gif",
+      "use":"车用椅背挂钩"
+    }
+  ],
+  "active":[
+    {
+      "img":"img/pic1.gif",
+      "title":"测身价炫富",
+      "cont":"身价大pk"
+    },
+    {
+      "img":"img/pic2.gif",
+      "title":"全场0利率",
+      "cont":"购车无压力"
+    },
+    {
+      "img":"img/pic3.gif",
+      "title":"好车分期",
+      "cont":"定制专属方案"
+    }
+  ],
+  "like":[
+    {
+      "img":"img/pics1.gif",
+      "name":"上汽大众-全新旅途L",
+      "cont":"上汽大中国-全讯旅途L享2年0利率"
+    },
+    {
+      "img":"img/pics2.gif",
+      "name":"上汽大众-全新旅途L",
+      "cont":"上汽大中国-全讯旅途L享2年0利率"
+    },
+    {
+      "img":"img/pics3.gif",
+      "name":"上汽大众-全新旅途L",
+      "cont":"上汽大中国-全讯旅途L享2年0利率"
+    },
+    {
+      "img":"img/pics4.gif",
+      "name":"上汽大众-全新旅途L",
+      "cont":"上汽大中国-全讯旅途L享2年0利率"
+    },
+    {
+      "img":"img/pics5.gif",
+      "name":"上汽大众-全新旅途L",
+      "cont":"上汽大中国-全讯旅途L享2年0利率"
+    },
+    {
+      "img":"img/pics6.gif",
+      "name":"上汽大众-全新旅途L",
+      "cont":"上汽大中国-全讯旅途L享2年0利率"
+    }
+  ],
+  "footer":[
+    {
+      "icon":"iconfont icon-shouye",
+      "cont":"首页"
+    },
+    {
+      "icon":"iconfont icon-xiaoxi",
+      "cont":"论坛"
+    },
+    {
+      "icon":"iconfont icon-renren",
+      "cont":"选车"
+    },
+    {
+      "icon":"iconfont icon-pinterest",
+      "cont":"发现"
+    },
+    {
+      "icon":"iconfont icon-wode",
+      "cont":"未登录"
+    }
+  ]
+}

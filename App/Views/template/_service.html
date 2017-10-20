@@ -1,0 +1,66 @@
+<div class="swiper-container pic">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide" ng-repeat="i in result.s_img"><img ng-src="{{i}}"></div>
+    </div>
+    <div class="swiper-pagination pages"></div>
+</div>
+<div class="sort">
+    <a href="#" ng-repeat="i in result.sort">
+        <span style="background: {{i.bg}}"><i class="{{i.icon}}"></i></span>
+        {{i.sort}}
+    </a>
+</div>
+<div class="title_bar">
+    <p>保养预约68折 爱车浪漫购</p>
+</div>
+<div class="ownsService">
+    <p>车主服务</p>
+    <ul class="type">
+        <li ng-repeat="i in result.server">
+            <i style="color:{{i.color}}" class="{{i.icon}}"></i>
+            <span>{{i.type}}</span>
+        </li>
+    </ul>
+</div>
+<div class="flashSale">
+  <p>限时抢购 <span><i>13</i>:<i>13</i>:<i>13</i></span></p>
+  <div class="swiper-container commodity">
+      <div class="swiper-wrapper">
+          <div class="swiper-slide" ng-repeat="i in result.sale">
+              <dl>
+                  <dt><img ng-src="{{i.img}}"></dt>
+                  <dd>
+                      <p>{{i.use}}</p>
+                      <p><span>￥9.9元</span><u>20元</u></p>
+                  </dd>
+              </dl>
+          </div>
+      </div>
+  </div>
+</div>
+<div class="activity">
+    <p>活动专区<span>更多活动 ></span></p>
+    <div class="area">
+        <dl ng-repeat="i in result.active">
+            <dd>
+                <p>{{i.title}}</p>
+                <p>{{i.cont}}</p>
+            </dd>
+            <dt><img ng-src="{{i.img}}"></dt>
+        </dl>
+    </div>
+</div>
+<div class="like">
+    <p>猜你喜欢<span>更多 ></span></p>
+    <div class="lazyLoad">
+        <dl ng-repeat="i in result.like">
+            <dt><img ng-src="{{i.img}}"></dt>
+            <dd>
+                <p>{{i.name}}</p>
+                <p>{{i.cont}}</p>
+                <p><span>1元</span><del>1,44万</del></p>
+            </dd>
+        </dl>
+    </div>
+</div>
+<button class="moreBtn">点击加载</button>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/App/Directives/serviceDirective.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/App/Servers/carServer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/App/Views/main.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Data/service.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Scripts/angular" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Scripts/angular-ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Scripts/css/common.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Scripts/css/reset.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Scripts/css/swiper-3.3.1.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Scripts/js" charset="UTF-8" />
+  </component>
+</project>

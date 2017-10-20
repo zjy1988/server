@@ -1,0 +1,19 @@
+<div class="box">
+    <header>
+        <menu>
+            <span><a class="on" ng-href="#/service">服务</a></span>
+            <span><a ng-href="#/finance">金融</a></span>
+            <div class="line"></div>
+        </menu>
+        <span><i class="iconfont icon-fangdajing"></i></span>
+    </header>
+    <section>
+        <ui-view></ui-view>
+    </section>
+    <footer>
+        <a href="#" ng-repeat= "i in result.footer">
+            <i class="{{i.icon}}"></i>
+            <span>{{i.cont}}</span>
+        </a>
+    </footer>
+</div>
